@@ -1,0 +1,29 @@
+1. Sapling							https://sapling.ai/ai-content-detector
+
+
+2. Crossplag						https://crossplag.com/ai-content-detector/
+
+
+3. Quill							https://aiwritingcheck.org/
+
+
+4. OpenAI							https://platform.openai.com/ai-text-classifier
+
+
+5. ZeroGPT 							https://www.zerogpt.com/
+
+
+6. Aiseo.ai							https://aiseo.ai/tools/ai-content-detector.html
+
+
+7. GPTZero							https://gptzero.me/
+
+
+8. Contentatscale.ai					https://contentatscale.ai/ai-content-detector/
+
+
+9. Writer							https://writer.com/ai-content-detector/
+
+
+OpenReview							https://openreview.net/group?id=ICML.cc/2023/Workshop/AI_HCI&referrer=%5BHomepage%5D(%2F)
+ICML AI&HCI							https://sites.google.com/view/aihci/call-for-participation?pli=1
