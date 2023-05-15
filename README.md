@@ -34,3 +34,21 @@ The table below summarizes the classification accuracies of different AI text de
 | Descriptive   | 0.38    | 0.5       | 0.0    | 0.5     | 0.63    | 0.25      |
 | Expository    | 0.4     | 0.4       | 0.16   | 0.48    | 0.32    | 0.2       |
 | Narrative     | 0.32    | 0.2       | 0.2    | 0.8     | 0.64    | 0.2       |
+
+<div style="text-align: justify">2. This table showcases the robustness of different AI Text Detector tools on GPT-generated human-like essays. The values indicate the detection scores achieved by each tool for different essay types.</div>
+
+| Essay Type    | Sapling | Crossplag | OpenAI | ZeroGPT | GPTZero | Con.Scale |
+|---------------|---------|-----------|--------|---------|---------|-----------|
+| Argumentative | 0       | 0         | 0      | 1       | 1       | 0         |
+| Descriptive   | 0       | 0         | 0      | 1       | 1       | 0         |
+| Expository    | 0       | 0         | 1      | 1       | 1       | 0         |
+| Narrative     | 0       | 0         | 0      | 1       | 1       | 1         |
+
+<div style="text-align: justify">3. This table showcases the robustness of different AI Text Detector tools on GPT-generated blunder-filled essays. The values indicate the detection scores achieved by each tool for different essay types, with the sample size (n) mentioned for each category.</div>
+
+| Essay Type          | Sapling | Crossplag | OpenAI | ZeroGPT | GPTZero | Con.Scale |
+|---------------------|---------|-----------|--------|---------|---------|-----------|
+| Argumentative (n=5) | 0       | 0         | 0      | 3       | 4       | 0         |
+| Descriptive (n=3)   | 0       | 0         | 0      | 0       | 0       | 0         |
+| Expository (n=3)    | 0       | 0         | 0      | 0       | 0       | 0         |
+| Narrative (n=2)     | 1       | 1         | 1      | 1       | 1       | 1         |
